@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/project-corona/static/js/main.6139889b.chunk.js",
-    "main.js.map": "/project-corona/static/js/main.6139889b.chunk.js.map",
+    "main.js": "/project-corona/static/js/main.5b3ee036.chunk.js",
+    "main.js.map": "/project-corona/static/js/main.5b3ee036.chunk.js.map",
     "runtime-main.js": "/project-corona/static/js/runtime-main.e79393a8.js",
     "runtime-main.js.map": "/project-corona/static/js/runtime-main.e79393a8.js.map",
     "static/js/2.3514b878.chunk.js": "/project-corona/static/js/2.3514b878.chunk.js",
     "static/js/2.3514b878.chunk.js.map": "/project-corona/static/js/2.3514b878.chunk.js.map",
     "index.html": "/project-corona/index.html",
-    "precache-manifest.a7b9d9f5baeb6382309c5af4a7f1b644.js": "/project-corona/precache-manifest.a7b9d9f5baeb6382309c5af4a7f1b644.js",
+    "precache-manifest.fb5ab4727fb58f3341f769fdb5982e2d.js": "/project-corona/precache-manifest.fb5ab4727fb58f3341f769fdb5982e2d.js",
     "service-worker.js": "/project-corona/service-worker.js",
     "static/js/2.3514b878.chunk.js.LICENSE": "/project-corona/static/js/2.3514b878.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e79393a8.js",
     "static/js/2.3514b878.chunk.js",
-    "static/js/main.6139889b.chunk.js"
+    "static/js/main.5b3ee036.chunk.js"
   ]
 }
